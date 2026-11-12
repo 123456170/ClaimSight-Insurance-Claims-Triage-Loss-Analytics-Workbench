@@ -1,0 +1,11 @@
+# ClaimSight — Insurance Claims Triage & Loss Analytics Workbench
+# Runtime dependencies (free, open-source, CPU-only, no API keys).
+# Install latest compatible releases:  pip install -r requirements.txt
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+imageio
+imageio-ffmpeg
+openpyxl
